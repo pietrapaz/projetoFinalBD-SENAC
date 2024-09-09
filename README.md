@@ -1,5 +1,5 @@
 # Projeto final - Administrador de Banco de Dados - SENAC
-Projeto realizado no curso de Administrador de Banco de Dados do SENAC, em 2023/1 (Fev/2023 - Mai/2023)
+Projeto realizado no curso de Administrador de Banco de Dados do SENAC/DF JESSE FREIRE, em 2023/1 (Fev/2023 - Mai/2023)
 
 ## Sobre o projeto
 ### :game_die: Banco de dados para um aplicativo de marcação e organização de filmes :clapper:
